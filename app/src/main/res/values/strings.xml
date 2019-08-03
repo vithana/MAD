@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MAD</string>
+    <string name="view_more_offers">View More</string>
+    <string name="test">Hello It Worked</string>
 </resources>
